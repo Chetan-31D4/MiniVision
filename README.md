@@ -1,8 +1,5 @@
 # MiniVision - Remote Access Guide
 
-demo-video 
-https://drive.google.com/file/d/1SY1ll50QyMZeu0JtsQtaYo82j1N-nM2q/view?usp=sharing
-
 This README provides detailed instructions for accessing your MiniVision application from different devices and networks.
 
 ## Running the Server
